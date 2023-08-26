@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.406" height="9.482" viewBox="0 0 9.406 9.482">
+  <g id="arrow-double" transform="translate(-0.767)">
+    <g id="Double_Chevron_Right" transform="translate(0.767 0)">
+      <path id="Path_758" data-name="Path 758" d="M90.074,4.318,85.99.175a.588.588,0,0,0-.837,0,.6.6,0,0,0,0,.845l3.668,3.721L85.153,8.461a.6.6,0,0,0,0,.845.588.588,0,0,0,.837,0l4.084-4.143A.617.617,0,0,0,90.074,4.318Z" transform="translate(-80.835 0)" fill="#7f7f7f"/>
+      <path id="Path_759" data-name="Path 759" d="M5.862,4.318,1.778.175a.588.588,0,0,0-.837,0,.6.6,0,0,0,0,.845L4.609,4.741.941,8.461a.6.6,0,0,0,0,.845.588.588,0,0,0,.837,0L5.862,5.164A.617.617,0,0,0,5.862,4.318Z" transform="translate(-0.767 0)" fill="#7f7f7f"/>
+    </g>
+  </g>
+</svg>
